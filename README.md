@@ -1,24 +1,11 @@
 # README
+Web application using rails. 
+Project made following a udemy RoR course. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/400px-Ruby_logo.svg.png" width="250px" alt="Ruby icon">
 
-Things you may want to cover:
+## About the project
+Application to upload photos and share them to the world. 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Udemy original project link
+[Link to original udemy project](https://github.com/udemyrailscourse/photo-app-514)
