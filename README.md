@@ -8,4 +8,4 @@ Project made following a udemy RoR course.
 Application to upload photos and share them to the world. 
 
 ## Udemy original project link
-[Link to original udemy project](https://github.com/udemyrailscourse/photo-app-514)
+[Link to original udemy project](https://github.com/udemyrailscourse/photo-app)
