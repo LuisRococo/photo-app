@@ -1,7 +1,7 @@
 class Image < ApplicationRecord
   belongs_to :user
   mount_uploader :picture, PictureUploader
-  validates :picture_size
+  validate :picture_size
 
   private
 
